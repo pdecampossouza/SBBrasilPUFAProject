@@ -1,0 +1,50 @@
+{
+  "Pranchetas fotografias - PUFA - treinamento_Voluntario1.jpeg": [
+    {
+      "tooth_idx": 0,
+      "bbox": [
+        225,
+        659,
+        492,
+        920
+      ],
+      "is_tooth": true,
+      "label": "0"
+    },
+    {
+      "tooth_idx": 1,
+      "bbox": [
+        930,
+        741,
+        1184,
+        1006
+      ],
+      "is_tooth": true,
+      "label": "P"
+    }
+  ],
+  "Pranchetas fotografias - PUFA - treinamento_Voluntario6.jpeg": [
+    {
+      "tooth_idx": 0,
+      "bbox": [
+        168,
+        459,
+        367,
+        640
+      ],
+      "is_tooth": true,
+      "label": "0"
+    },
+    {
+      "tooth_idx": 1,
+      "bbox": [
+        693,
+        516,
+        883,
+        700
+      ],
+      "is_tooth": true,
+      "label": "P"
+    }
+  ]
+}
