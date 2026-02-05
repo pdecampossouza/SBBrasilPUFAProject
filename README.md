@@ -268,7 +268,7 @@ If you use this repository, please cite:
 @article{souza2025oralhealth,
   author    = {Souza, Paulo Vitor de Campos and others},
   title     = {From PDF to Dental View Classification: A Human-in-the-Loop Dataset and Pipeline for Oral Health Imaging},
-  journal   = {IEEE Journal of Translational Engineering in Health and Medicine},
+  journal   = {IEEE Access},
   year      = {2025},
   note      = {Under Review}
 }
